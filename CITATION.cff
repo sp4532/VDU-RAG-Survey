@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this paper list, please cite the survey below."
+title: "Awesome Visual Document RAG"
+repository-code: "https://github.com/sp4532/VDU-RAG-Survey"
+license: CC-BY-4.0
+date-released: "2026-10-07"
+abstract: "Paper list and data release of the survey. Literature cut-off: 24 September 2026."
+authors:
+  - family-names: "Pramanik"
+    given-names: "Subrata"
+    orcid: "https://orcid.org/0009-0001-5676-4312"
+  - family-names: "Javed"
+    given-names: "Mohammed"
+    orcid: "https://orcid.org/0000-0002-3019-7401"
+  - family-names: "Doermann"
+    given-names: "David"
+    orcid: "https://orcid.org/0000-0003-1639-4561"
+preferred-citation:
+  type: article
+  title: "Toward Channel-Aware Visual Document Understanding With RAG: A Survey"
+  authors:
+    - family-names: "Pramanik"
+      given-names: "Subrata"
+    - family-names: "Javed"
+      given-names: "Mohammed"
+    - family-names: "Doermann"
+      given-names: "David"
+  journal: "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+  notes: "Under review"
+  year: 2026
